@@ -10,6 +10,9 @@ The analysis combines demographic, behavioral, geographic, service, pricing, and
 
 ---
 
+<img width="1319" height="726" alt="Screenshot 2026-01-07 011737" src="https://github.com/user-attachments/assets/9f416eee-465d-4412-85be-69e7c9e01a30" />
+
+---
 ## 🔢 Key Business Metrics
 
 | Metric | Range |
@@ -31,6 +34,8 @@ The analysis combines demographic, behavioral, geographic, service, pricing, and
 
 **Highest female churn states:**  
 Jammu & Kashmir, Tamil Nadu, Uttar Pradesh
+
+<img width="1313" height="734" alt="Screenshot 2026-01-07 012124" src="https://github.com/user-attachments/assets/137c6e87-cd10-4779-83a3-10377011a85a" />
 
 ---
 
@@ -91,16 +96,19 @@ Uttar Pradesh, Bihar, Karnataka, Tamil Nadu, West Bengal
 | Other | Low |
 
 > Over **70% of churn** driven by competition and service dissatisfaction.
+> 
+<img width="403" height="305" alt="image" src="https://github.com/user-attachments/assets/fa1d7c40-9c05-41b7-b27c-7f2d90a15b47" />
 
 ---
 
 ## 🗺️ Geographic Risk Concentration
 
 Highest churn volumes:
-Tamil Nadu, Uttar Pradesh, Maharashtra, Haryana, Karnataka, Jammu & Kashmir
+Jammu & Kashmir, Uttar Pradesh, Tamil Nadu, Maharashtra, Haryana, Karnataka, 
+
+<img width="1284" height="659" alt="Screenshot 2026-01-07 011808" src="https://github.com/user-attachments/assets/3e8f7a1c-c177-493e-80e9-c2f42cf28b4e" />
 
 ---
-
 ## 💳 Pricing & Value Deal Analysis
 
 | Segment | Churn Impact |
